@@ -68,6 +68,11 @@
 
 ### Ответ на задание 2
 
+![](https://github.com/alexei-golovin/SYS-23-9-02/blob/main/img/21.jpg)
+![](https://github.com/alexei-golovin/SYS-23-9-02/blob/main/img/22.jpg)
+![](https://github.com/alexei-golovin/SYS-23-9-02/blob/main/img/23.jpg)
+![](https://github.com/alexei-golovin/SYS-23-9-02/blob/main/img/24.jpg)
+
 ---
 ## Задание 3 со звёздочкой*
 Установите Zabbix Agent на Windows (компьютер) и подключите его к серверу Zabbix.
